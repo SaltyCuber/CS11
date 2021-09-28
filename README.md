@@ -1,6 +1,6 @@
 # CS11
 All the work I have to do for my cs11 class
 
-meth.py is an alternate way of doing integer math using only bitwise nor and bitwise left and right shifts
+meth.py is an alternate way of doing integer math using only bitwise nor and bitwise left and right shifts, and was something I did just for fun
 
 blackjack.py is my unit 4 project
