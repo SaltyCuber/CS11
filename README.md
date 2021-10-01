@@ -5,4 +5,6 @@ meth.py is an alternate way of doing integer math using only bitwise nor and bit
 
 coin_count.py and coin_count_no_meth.py are my unit 2 project, the latter being a more readable version
 
+bee.py is my unit 3 project
+
 blackjack.py is my unit 4 project
