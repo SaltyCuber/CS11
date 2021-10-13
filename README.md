@@ -7,4 +7,4 @@ coin_count.py and coin_count_no_meth.py are my unit 2 project, the latter being 
 
 bee.py is my unit 3 project
 
-blackjack.py is my unit 4 project
+blackjack.py is my unit 4 project, and requires python 3.10
